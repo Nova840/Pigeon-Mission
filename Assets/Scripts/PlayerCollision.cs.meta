@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: d90b3af02e8a0dd44b31123c0f9301b2
+timeCreated: 1517267416
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - deathCanvas: {instanceID: 0}
+  - finishCanvas: {instanceID: 0}
+  - arrowDeathPrefab: {fileID: 1817022087045842, guid: d9ec17db5f28a4d478f250543300ece8,
+      type: 2}
+  - cookedDeathPrefab: {fileID: 1687795375565582, guid: 9db0c9a3499dbce47b5035e793f242c5,
+      type: 2}
+  - kfcDeathPrefab: {fileID: 1687795375565582, guid: 5d475cf7a3b1b4e4eb54871b8ba34d07,
+      type: 2}
+  - regularDeathPrefab: {fileID: 1687795375565582, guid: 68e8a1c4e80619d4bb7047b19eb68c12,
+      type: 2}
+  - bonesDeathPrefab: {fileID: 1037281575726012, guid: d2caa74646944c840985ba872a9252a0,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
