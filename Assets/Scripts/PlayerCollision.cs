@@ -68,7 +68,7 @@ public class PlayerCollision : MonoBehaviour {
 
     private void CreateDeathPrefab(GameObject prefab) {
         Rigidbody2D r = Instantiate(prefab, transform.position, transform.rotation).GetComponent<Rigidbody2D>();
-        r.velocity = rb2d.velocity;
+        r.linearVelocity = rb2d.linearVelocity;
         r.angularVelocity = Random.Range(-spinVelocity, spinVelocity);
     }
 
